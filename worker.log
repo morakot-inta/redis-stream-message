@@ -1,0 +1,7 @@
+Worker started, waiting for tasks...
+Consumer group already exists
+Processing task ID 1768629834481-0 with data: {
+  taskName: 'verify-delete',
+  taskBody: '{"taskName":"verify-delete","taskDetails":"This should be deleted"}'
+}
+Task ID 1768629834481-0 processed, acknowledged, and deleted (1 messages removed).
